@@ -2,6 +2,8 @@
 
 Effective September 19, 2026 · Releaf 1.4.0
 
+Developer Contact: sanah.s.rajesh@gmail.com
+
 ## What stays on your device
 
 Releaf stores imported works and their source links, saved works, likes, ratings, private reviews, reading positions (page and a character anchor), reading timestamps, hashed identities of seen poems, reflections, and preferences in Chrome’s local extension storage. This data is not synced, sold, shared, or sent to an analytics service. There are no accounts, ads, or trackers.
