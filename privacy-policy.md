@@ -1,8 +1,6 @@
 # Releaf Privacy Policy
 
-Effective September 19, 2026 · Releaf 1.4.0
-
-Developer Contact: sanah.s.rajesh@gmail.com
+Effective September 19, 2026 · Releaf 1.4.1
 
 ## What stays on your device
 
